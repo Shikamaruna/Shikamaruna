@@ -27,6 +27,8 @@ Bachelor of Computer Application Student
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhanushvaithi?theme=dark&font=Marcellus&ext=contest)
 
+![Dhanush GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=transparent)
+
 [![Dhanush github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shikamaruna&bg_color=120c0f&color=faf5f9&line=24b75d&point=f4f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
