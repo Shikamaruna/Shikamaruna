@@ -1,4 +1,6 @@
 ## Hi👋 There I'ts me Dhanush
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=50fa7b&center=true&vCenter=true&width=435&lines=Hello+I%27m+Dhanush+%F0%9F%91%8B;Java+Developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%92%AB" alt="Typing SVG" /></p> 
+
 
 Bachelor of Computer Application Student
 
@@ -8,9 +10,12 @@ Bachelor of Computer Application Student
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Spring Projects ...
 - 🤔 I'm Looking for help with placements FAANG 
 - 📫 How to reach me :
-  <br /> [<img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/dhanush962/) [<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>](https://github.com/Shikamaruna) [<img width="60" height="60" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>](https://discord.com/channels/@me) [<img width="60" height="60" src="https://img.icons8.com/doodle/48/reddit--v4.png" alt="reddit--v4"/>](u/Outrageous_Shake_414)
+  <br /> [<img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/dhanush962/) [<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>](https://github.com/Shikamaruna) [<img width="60" height="60" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>](https://discord.com/channels/@me) [<img width="60" height="60" src="https://img.icons8.com/doodle/48/reddit--v4.png" alt="reddit--v4"/>](u/Outrageous_Shake_414) [<img width="60" height="60" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](dhanushgiri962@gmail.com)
 - 😄 Pronouns: Techie ...
 - ⚡ Fun fact: I Know French Language ...
+- 💬 Dream : Senior Software Enginear at Swiss Google Office ... <img width="35" height="35" src="https://img.icons8.com/emoji/48/man-technologyst.png" alt="man-technologyst"/> <img width="35" height="35" src="https://img.icons8.com/external-creatype-flat-colourcreatype/64/external-flag-flags-creatype-flat-colourcreatype-76.png" alt="external-flag-flags-creatype-flat-colourcreatype-76"/> <img width="35" height="35" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/> <br/>
+---
+
 
 ### I Code In
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/graphql.png" alt="graphql"/>
