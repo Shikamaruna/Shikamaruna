@@ -36,10 +36,15 @@ Bachelor of Computer Application Student
 ---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikamaruna&theme=material-palenight" />
- </p>
+</p>
 
 <p float="left" >
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" /> 
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
+</p>
+
+<p float="right" >
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 <!---
