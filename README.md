@@ -1,7 +1,6 @@
 ## Hi👋 There I'ts me Dhanush
 <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=50fa7b&center=true&vCenter=true&width=435&lines=Hello+I%27m+Dhanush+%F0%9F%91%8B;Java+Developer+%F0%9F%8C%90;Programmer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%92%AB" alt="Typing SVG" /></p> 
 
-
 Bachelor of Computer Application Student
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -34,7 +33,7 @@ Bachelor of Computer Application Student
 
 
 📊 My GitHub Analytics
-------
+---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikamaruna&theme=material-palenight" />
  </p>
