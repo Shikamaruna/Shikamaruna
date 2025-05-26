@@ -12,8 +12,8 @@ Bachelor of Computer Application Student
   <br /> [<img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/dhanush962/) [<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>](https://github.com/Shikamaruna) [<img width="60" height="60" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>](https://discord.com/channels/@me) [<img width="60" height="60" src="https://img.icons8.com/doodle/48/reddit--v4.png" alt="reddit--v4"/>](u/Outrageous_Shake_414) [<img width="60" height="60" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>](dhanushgiri962@gmail.com)
 - 😄 Pronouns: Techie ...
 - ⚡ Fun fact: I Know French Language ...
-- 💬 Dream : Senior Software Enginear at Swiss Google Office ... <img width="35" height="35" src="https://img.icons8.com/emoji/48/man-technologyst.png" alt="man-technologyst"/> <img width="35" height="35" src="https://img.icons8.com/external-creatype-flat-colourcreatype/64/external-flag-flags-creatype-flat-colourcreatype-76.png" alt="external-flag-flags-creatype-flat-colourcreatype-76"/> <img width="35" height="35" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/> <br/>
----
+- 💬 Dream : Senior Software Enginear at Swiss Google Office ... <img width="30" height="30" src="https://img.icons8.com/emoji/48/man-technologyst.png" alt="man-technologyst"/> <img width="30" height="30" src="https://img.icons8.com/external-creatype-flat-colourcreatype/64/external-flag-flags-creatype-flat-colourcreatype-76.png" alt="external-flag-flags-creatype-flat-colourcreatype-76"/> <img width="30" height="30" src="https://img.icons8.com/color/48/google-logo.png" alt="google-logo"/>
+<br/>
 
 
 ### I Code In
@@ -39,8 +39,7 @@ Bachelor of Computer Application Student
  </p>
 
 <p float="left" >
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" /> 
-  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 <!---
