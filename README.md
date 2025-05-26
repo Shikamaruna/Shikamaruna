@@ -8,7 +8,7 @@ Bachelor of Computer Application Student
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Spring Projects ...
 - 🤔 I'm Looking for help with placements FAANG 
 - 📫 How to reach me :
-  <br /> [<img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/dhanush962/) [<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>](https://github.com/Shikamaruna)
+  <br /> [<img width="60" height="60" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/dhanush962/) [<img width="60" height="60" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>](https://github.com/Shikamaruna) [<img width="60" height="60" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>](https://discord.com/channels/@me) [<img width="60" height="60" src="https://img.icons8.com/doodle/48/reddit--v4.png" alt="reddit--v4"/>](u/Outrageous_Shake_414)
 - 😄 Pronouns: Techie ...
 - ⚡ Fun fact: I Know French Language ...
 
@@ -28,7 +28,7 @@ Bachelor of Computer Application Student
 ![LeetCode Stats](https://leetcard.jacoblin.cool/dhanushvaithi?theme=dark&font=Marcellus&ext=contest)
 
 
-📊 Stats
+📊 My GitHub Analytics
 ------
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shikamaruna&theme=material-palenight" />
@@ -49,6 +49,11 @@ Bachelor of Computer Application Student
 
 [![Dhanush github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shikamaruna&bg_color=120c0f&color=faf5f9&line=24b75d&point=f4f1f1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+---
+<div align="center">
+  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  &copy; 2025 Dhanush
+</div>
 
 
 
