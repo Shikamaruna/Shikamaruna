@@ -43,7 +43,7 @@ Bachelor of Computer Application Student
 </p>
 
 <p float="right" >
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 
