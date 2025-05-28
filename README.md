@@ -39,11 +39,11 @@ Bachelor of Computer Application Student
 </p>
 
 <p float="left" >
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" /> 
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Shikamaruna&show_icons=true&theme=material-palenight" /> 
 </p>
 
 <p float="right" >
-  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=material-palenight&layout=compact&langs_count=8" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikamaruna&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
 
